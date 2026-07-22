@@ -1,4 +1,6 @@
 Enterprise Network with DHCP & RIP | Cisco Packet Tracer
+
+
 📌 Overview
 
 This project demonstrates the design and implementation of a scalable enterprise network using Cisco Packet Tracer. The topology consists of 4 routers, 4 switches, and 12 PCs, with each router providing DHCP services for its local network and RIP v2 enabling dynamic routing between all LANs.
